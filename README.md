@@ -29,7 +29,7 @@ Things you may want to cover:
 | Column             | Type   | Options     |
 | ------------------ | ------ | ----------- |
 | name               | string | null: false |
-| profile            | string | null: false |
+| profile            | text   | null: false |
 | profile_image_id   | string | null: false |
 | email              | string | null: false |
 | encrypted_password | string | null: false |

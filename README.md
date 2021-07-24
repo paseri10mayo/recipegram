@@ -45,7 +45,8 @@ Things you may want to cover:
 | -------------- | ---------- | ------------------------------ |
 | user           | references | null: false, foreign_key: true |
 | recipe_title   | string     | null: false                    |
-| recipe_details | string     | null: false                    |
+| recipe_details | text       | null: false                    |
+| image_id       | string     | null: false                    |
 
 ### Association
 

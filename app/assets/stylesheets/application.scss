@@ -23,3 +23,10 @@
 .profile_image {
   border-radius: 50%;     //アイコン円形
 }
+
+.main-image {
+  height: 940px;
+  background-image: url(meal.png);
+  background-repeat: none;      //余ったら繰り返しを防ぐ
+  background-size: contain;
+}
